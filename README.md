@@ -1,15 +1,3 @@
-# Bright-Car-Sales
-
-# 📘 Introduction
-Bright Motors hired a new Head of sales and this particular Head of Sales has a mission to expand the dealership network among other things. So I had to analyse and extract insight from historical car sales data
-
-# 🧰 Tools Used
-Miro – Used for planning the analysis process, outlining the objectives, and mapping out the SQL queries to be used.
-
-Snowflake – Used to perform the core data analysis. I wrote SQL queries to explore, clean, and analyze the dataset, identifying key trends and insights.
-
-Excel – Used to visualize the results from Snowflake. I created pivot tables and graphs to better illustrate key performance trends.# Bright-Car-Sales
-
 # 📘 Introduction
 Bright Motors hired a new Head of sales and this particular Head of Sales has a mission to expand the dealership network among other things. So I had to analyse and extract insight from historical car sales data
 
@@ -20,7 +8,7 @@ Snowflake – Used to perform the core data analysis. I wrote SQL queries to exp
 
 Excel – Used to visualize the results from Snowflake. I created pivot table
 
-Canva – Used to design a presentation that visually communicates the findings to the CEO in a clear and engaging way.
+Canva – Used to design a presentation that visually communicates the findings in a clear and engaging way.
 
 # 📊 Key Findings
  1.Ford is quite popular as it is the car that makes the most revenue, its market value is the
