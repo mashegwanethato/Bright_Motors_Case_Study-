@@ -25,3 +25,6 @@ Google Looker - Used to turn raw data data into interactive dashboards and autom
  6. Week days are when the most revenue is made as Tuesday, Wednesday and Thursday are
  when most cars are bought.
  7. A high percentage of the car in Bright Motor’s inventory are car from 2011 and above.
+
+# Conclusion
+Ford is the car brand that is leading in the business however to grow, the business has to make consumers interested in the other car brands
