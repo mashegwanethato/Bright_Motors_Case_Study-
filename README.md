@@ -10,6 +10,8 @@ Excel – Used to visualize the results from Snowflake. I created pivot table
 
 Canva – Used to design a presentation that visually communicates the findings in a clear and engaging way.
 
+Google Looker - Used to turn raw data data into interactive dashboards and automated reports, making insights easy to visualize.
+
 # 📊 Key Findings
  1.Ford is quite popular as it is the car that makes the most revenue, its market value is the
  highest and it’s selling price also the highest.
